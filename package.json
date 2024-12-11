@@ -40,7 +40,7 @@
     "check-updates": "npm-check --skip-unused",
     "reset": "yarn cache clean  && rm -rf node_modules && yarn install",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b gh-pages"
+    "deploy": "yarn build && gh-pages -d build -b gh-pages"
   },
   "eslintConfig": {
     "extends": [
