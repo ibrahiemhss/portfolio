@@ -1,0 +1,103 @@
+{
+    "basic_info": {
+      "name": "Ibrahiem Hussien (Senior Mobile Apps Developer)",
+      "titles": [ "Senior Mobile Apps Developer", "React Native", "Flutter", "IOS", "Android" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/ibrahiemhss",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://stackoverflow.com/users/28703635/ibrahim-hss",
+          "class": "fab fa-stack-overflow"
+        }
+      ],
+      "image": "myProfile.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "ANDROID",
+          "class": "devicon-android-plain-wordmark colored",
+          "level": "95"
+        },
+        {
+          "name": "Android Studio",
+          "class": "devicon-androidstudio-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "IOS",
+          "class": "devicon-apple-original colored",
+          "level": "95"
+        },
+        {
+          "name": "xcode",
+          "class": "devicon-xcode-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "React Native | React.js",
+          "class": "devicon-react-original colored",
+          "level": "80"
+        },
+        {
+          "name": "Swift",
+          "class": "devicon-swift-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "Kotlin",
+          "class": "devicon-kotlin-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain colored",
+          "level": "80"
+        }
+      ]
+    }
+  }
