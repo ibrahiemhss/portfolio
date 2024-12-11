@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Ibrahim Husein Salama, a seasoned Web and Mobile App Developer with over seven years of expertise in React Native, Flutter, and more. My experience spans industries, from CRM and telehealth to blockchain applications. Let's build something amazing together. ❤️",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Technical Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "IRIS CRM",
+      "startDate": "March 2020",
+      "description": "A robust CRM application for ISOs in the payments industry. Integrated real-time lead management, Twilio-powered phone systems, Google Maps, and e-signatures. Enhanced state management with Redux-Saga and optimized API calls with GraphQL.",
+      "images": ["irisCrm.png","irisCrm1.png","irisCrm2.png","irisCrm3.png"],
+      "url": "https://react.uat.iriscrm.com/v2",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React Native" },
+        { "class": "devicon-graphql-plain", "name": "GraphQL" },
+        { "class": "devicon-redux-original", "name": "Redux" }
+      ]
+    },
+    {
+      "title": "Beem",
+      "startDate": "June 2022",
+      "description": "An innovative mobile app featuring blockchain and cryptocurrency functionalities. Integrated Web3, Agora for video conferencing, AWS, and Stripe payments.",
+      "images": ["beem.png","beem1.png","beem2.png","beem3.png"],
+      "url": "https://app.beem.xyz/",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React Native" },
+        { "class": "devicon-aws-plain", "name": "AWS" },
+        { "class": "devicon-stripe-plain", "name": "Stripe" }
+      ]
+    },
+    {
+      "title": "Ringdoc",
+      "startDate": "July 2021",
+      "description": "A telehealth app for booking appointments and doctor consultations. Available on web, Google Play, and the App Store.",
+      "images": ["ringDoc.png","ringDoc1.png","ringDoc2.png","ringDoc3.png","ringDoc4.png"],
+      "url": "https://ringdoc.ro/",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React Native" }
+      ]
+    },
+    {
+      "title": "Benna Academy",
+      "startDate": "2021",
+      "description": "An educational app offering live courses and encrypted videos focused on civil engineering. Available on web, Google Play, and the App Store.",
+      "images": ["benna.png","benna1.png","benna2.png","benna3.png"],
+      "url": "https://benaa-academy.com/",
+      "technologies": [
+        { "class": "devicon-flutter-plain", "name": "Flutter" },
+        { "class": "devicon-dart-plain", "name": "Dart" }
+      ]
+    },
+    {
+      "title": "YMK Restaurant Delivery App",
+      "startDate": "March 2024",
+      "description": "A comprehensive restaurant delivery app built with React Native. Features include real-time order tracking, dynamic menus, user-friendly UI, and admin dashboard integration for restaurant owners.",
+      "images": ["ymk.png","ymk1.png","ymk2.png","ymk3.png","ymk4.png"],
+      "url": "https://ymkapp.com/",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React Native" },
+        { "class": "devicon-redux-original", "name": "Redux" },
+        { "class": "devicon-nodejs-plain", "name": "Node.js" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "3SS",
+      "title": "Senior React Native Developer",
+      "years": "June 2022 - October 2023",
+      "mainTech": ["React Native", "devicon-amazonwebservices-plain", "Web3"],
+      "technologies": [
+        "GraphQL",
+        "Stripe",
+        "Agora",
+        "AWS Lambda",
+        "Firebase"
+      ]
+    },
+    {
+      "company": "IRIS CRM",
+      "title": "React Native Mobile App Developer",
+      "years": "March 2020 - May 2022",
+      "mainTech": ["React Native", "GraphQL", "Redux"],
+      "technologies": [
+        "Google Maps API",
+        "Twilio",
+        "Firebase",
+        "GraphQL",
+        "Redux-Saga"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "title": "Flutter Developer",
+      "years": "2021 - Present",
+      "mainTech": ["Flutter", "Dart"],
+      "technologies": [
+        "State Management",
+        "Firebase",
+        "Payment Gateway Integration",
+        "Cross-platform App Development"
+      ]
+    },
+    {
+      "company": "YMK Restaurant Delivery App",
+      "title": "React Native Developer",
+      "years": "March 2024 - Present",
+      "mainTech": ["React Native", "Redux", "Node.js"],
+      "technologies": [
+        "Real-time Order Tracking",
+        "Dynamic Menus",
+        "Admin Dashboard",
+        "API Integration"
+      ]
+    },
+    {
+      "company": "Self-Learning",
+      "title": "Android & iOS Native Developer",
+      "years": "2016 - 2020",
+      "mainTech": ["Java", "Kotlin", "Swift", "Objective-C"],
+      "technologies": [
+        "Android Studio",
+        "Xcode",
+        "Core Data",
+        "Custom UI Components",
+        "API Integration"
+      ],
+      "description": "Started learning native mobile development in 2016, focusing on Android with Java/Kotlin and iOS with Swift/Objective-C. Built foundational knowledge in mobile app development, setting the stage for future cross-platform expertise."
+    }
+  ]
+}

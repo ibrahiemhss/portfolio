@@ -1,0 +1,119 @@
+{
+    "basic_info": {
+      "description_header": "Salut!",
+      "description": "\uD83D\uDC4B Sunt Ibrahiem Hussien, inginer software senior. În ultimii șapte ani, m-am concentrat pe tehnologiile cross-platform precum React Native și Flutter. De asemenea, am o experiență extinsă în aplicațiile Web3 și multe alte competențe pe care este greu să le exprim în doar câteva rânduri. Îți mulțumesc că ai citit acest mesaj \uD83D\uDC9C.",
+      "section_name": {
+        "about": "Despre mine",
+        "projects": "Galerie",
+        "skills": "Competențe",
+        "experience": "Experiență"
+      }
+    },
+  "projects": [
+    {
+      "title": "",
+      "startDate": "October 5, 2016",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/1.png",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "startDate": "March 25, 2019",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/2.png",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "startDate": "2024",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/2.png",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Full Time",
+      "title": "Inginer Software Senior",
+      "years": "10.2015 - prezent",
+      "mainTech": [
+        "React Native & React.js & Flutter"
+      ],
+      "technologies": [
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Flutter",
+        "Dart-lang",
+        "Module Native (iOS & Android)",
+        "CD/CI",
+        "DevOps",
+        "GraphQL",
+        "REST API"
+      ]
+    },
+    {
+      "company": "Part Time",
+      "title": "Inginer Software",
+      "years": "01.2005 - 10.2015",
+      "mainTech": [
+        "PHP & Django & Node.js"
+      ],
+      "technologies": [
+        "TypeScript",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "Node.js"
+      ]
+    }
+  ]
+}
