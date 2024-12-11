@@ -118,9 +118,11 @@ $content-background-color: #8C8C8C;
     justify-content: center;
     > img,
     > video {
-      height: 100%;
+      width: auto;
+      position: relative;
       top: 0;
       left: 0;
+      right: 0;
     }
   }
   &__controls {
